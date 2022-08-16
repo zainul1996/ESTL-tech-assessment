@@ -45,6 +45,10 @@ cd public
 pip install -r requirements.txt
 ```
 
+## DB Credentials
+
+Input DB credentials in public > app > controller > main.py
+
 ## Start Application
 
 ```

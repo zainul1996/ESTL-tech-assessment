@@ -7,7 +7,9 @@ from flask import (
 import pandas as pd
 
 bp = Blueprint('main', __name__)
-con = psycopg2.connect(database='postgres', user='postgres', password='password', host='postgresdb.cnxya6luktyc.ap-southeast-1.rds.amazonaws.com', port='5432')
+
+# CHANGE IF NEEDED
+con = psycopg2.connect(database='postgres', user='postgres', password='password', host='localhost', port='5432')
 
 @bp.route('/')
 def index():
