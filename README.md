@@ -89,19 +89,27 @@ USER STORY 5: UI Localization (Bonus)
 
 # Images
 
-Dashboard
+### Dashboard
+
+[Desktop]
+<img src="https://cdn.discordapp.com/attachments/933291645733072926/1009093682034655313/unknown.png" alt="ESTL-Tech-Assessment" width="100%" height="auto">
+
+[Mobile]
+<img src="https://cdn.discordapp.com/attachments/933291645733072926/1009094737451548722/unknown.png" alt="ESTL-Tech-Assessment" width="50%" height="auto">
+
+[Sort/Filter]
+<img src="https://cdn.discordapp.com/attachments/933291645733072926/1009093752993882122/unknown.png" alt="ESTL-Tech-Assessment" width="50%" height="auto">
+
+[Update/Delete]
+<img src="https://cdn.discordapp.com/attachments/933291645733072926/1009093785503928340/unknown.png" alt="ESTL-Tech-Assessment" width="70%" height="auto">
+
+### Upload Page
 
 [Desktop]
 <img src="https://cdn.discordapp.com/attachments/933291645733072926/1009093480435433564/unknown.png" alt="ESTL-Tech-Assessment" width="100%" height="auto">
 
 [Mobile]
-<img src="https://cdn.discordapp.com/attachments/933291645733072926/1009093542188159006/unknown.png" alt="ESTL-Tech-Assessment" width="100%" height="auto">
+<img src="https://cdn.discordapp.com/attachments/933291645733072926/1009093542188159006/unknown.png" alt="ESTL-Tech-Assessment" width="50%" height="auto">
 
-[Sort/Filter]
-<img src="https://cdn.discordapp.com/attachments/933291645733072926/1009093752993882122/unknown.png" alt="ESTL-Tech-Assessment" width="100%" height="auto">
-
-[Update/Delete]
-<img src="https://cdn.discordapp.com/attachments/933291645733072926/1009093785503928340/unknown.png" alt="ESTL-Tech-Assessment" width="100%" height="auto">
-
-Upload Page
-<img src="https://cdn.discordapp.com/attachments/933291645733072926/1009093480435433564/unknown.png" alt="ESTL-Tech-Assessment" width="100%" height="auto">
+[Confirmation]
+<img src="https://cdn.discordapp.com/attachments/933291645733072926/1009093857180389376/unknown.png" alt="ESTL-Tech-Assessment" width="100%" height="auto">
